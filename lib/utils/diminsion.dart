@@ -1,0 +1,1 @@
+const webPageSize = 600;
